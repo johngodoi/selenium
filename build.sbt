@@ -6,3 +6,5 @@ scalaVersion := "2.11.4"
 
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.0" % "test"
 libraryDependencies += "org.seleniumhq.selenium" % "selenium-java" % "2.35.0" % "test"
+libraryDependencies += "io.github.bonigarcia" % "webdrivermanager" % "1.7.1"
+
